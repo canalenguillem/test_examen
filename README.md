@@ -22,4 +22,6 @@
 
 ![logo_liceu](https://esliceu.cat/wp-content/uploads/2023/02/logo_llac%CC%A7n.png)
 
+![linux](https://i.blogs.es/afd5e9/inux2/450_1000.jpg)
 
+![linxu2](img/linux.jpg)
